@@ -1,0 +1,6 @@
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\bin\Debug\StudyStrategyPattern.exe.config
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\bin\Debug\StudyStrategyPattern.exe
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\bin\Debug\StudyStrategyPattern.pdb
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\obj\Debug\StudyStrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\obj\Debug\StudyStrategyPattern.exe
+C:\Users\Woody\Desktop\Study\StudyStrategyPattern\StudyStrategyPattern\obj\Debug\StudyStrategyPattern.pdb
